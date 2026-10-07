@@ -19,6 +19,6 @@ spatial:
         text: SICG Iphan
         refid: BA2904902BIED00003
         href: https://sicg.iphan.gov.br/sicg/bem/visualizar/13#&panel1-2
-      display: 'Rua Ana Néri (Rua Benjamin Constant, 2)'
+    display: 'Rua Ana Néri (Rua Benjamin Constant, 2)'
 ---
 
