@@ -12,13 +12,13 @@ spatial:
       refid: 'lugar/59V3C22M+4QR'
     display: 'Cachoeira, Bahia, Brasil'
     location:
-      lat: -12.36
-      lon: -39.57
-      alt: 20
+      lat: -12.60525
+      lon: -38.96244
+      alt: null
       source:
-        text: null
+        text: OpenStreetMap
         refid: null
         href: null
-      display: 'Praça da Aclamação, 4'
+    display: 'Praça da Aclamação, 4'
 ---
 
