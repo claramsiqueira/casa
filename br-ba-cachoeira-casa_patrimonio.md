@@ -19,6 +19,6 @@ spatial:
         text: OpenStreetMap
         refid: null
         href: null
-    display: 'Praça da Aclamação, 4'
+      display: 'Praça da Aclamação, 4'
 ---
 
