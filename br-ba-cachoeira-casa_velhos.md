@@ -1,15 +1,16 @@
 ---
 title: Casa Velhos
+titleType: popular
 author: 
 date: 
 identifier:
 - source: Documentário de casas tradicionais
-  refid:
+  refid: null
 spatial:
   site:
     term:
       type: 'local'
-      refid: 'null'
+      refid: 'lugar/59V3C22M+4QR'
     display: 'Cachoeira, Bahia, Brasil'
     location:
       lat: null
@@ -19,5 +20,5 @@ spatial:
         text: null
         refid: null
         href: null
-      display: 'null'
+      display: ''
 ---
