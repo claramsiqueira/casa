@@ -4,7 +4,7 @@ author: 0009-0001-1800-4830
 date: 2022-09-26
 identifier:
 - source: Documentário de casas tradicionais
-  refid: 54
+  refid: '54'
 spatial:
   site:
     term:
@@ -15,8 +15,10 @@ spatial:
       lat: -12.6052026
       lon: -38.9622054
       source:
-        text: SICG Iphan
-        refid: https://sicg.iphan.gov.br/sicg/bem/visualizar/13#&panel1-2
+        type: 'corporate'
+        name:
+          refid: 'https://sicg.iphan.gov.br/sicg/bem/visualizar/13#&panel1-2'
+          display: 'IPHAN SICG BA-2904902-BI-ED-00003'
       display: 'Rua Ana Néri (Rua Benjamin Constant, 2)'
 ---
 
